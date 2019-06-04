@@ -3,11 +3,11 @@ Table of Contents
 =================
    * [Table of Contents](#table-of-contents)
    * [Blockchain Concepts](#blockchain-concepts)
-   * [Generations](#blockchain-changes)
+   * [Generations](#generations)
       * 1.0: [Bitcoin](#bitcoin)
       * 2.0: [Ethereum](#ethereum)
       * 3.0: [Permissioned Chain](#permissioned-chain)
-      * 4.0: [Semi-Distributed Permissioned Chain](#semo-distributed-permissioned-chain)
+      * 4.0: [Semi-Distributed Permissioned Chain](#semi-distributed-permissioned-chain)
    * [Skillsets for Blockchain Career](#skillsets-for-blockchain-career)
    * [Blockchain Use Cases](#blockchain-use-cases)
    * [Blockchain Leaders](#blockchain-leaders)
